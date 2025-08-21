@@ -3,7 +3,6 @@
 import { inngest } from "../inngest/index.js";
 import Booking from "../models/Booking.js";
 import Show from "../models/Show.js"
-// import stripe from 'stripe'
 
 //function to check availability of selected seats
 const checkSeatsAvailability = async (showId, selectedSeats)=>{

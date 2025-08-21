@@ -2,7 +2,6 @@ import React from 'react'
 import MovieCard from '../components/MovieCard'
 import BlurCircle from '../components/BlurCircle'
 import { useAppContext } from '../context/AppContext'
-import {dummyShowsData} from "../assets/assets.js";
 
 const Movies = () => {
 
