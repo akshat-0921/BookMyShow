@@ -7,7 +7,9 @@ const Home = () => {
     return (
         <>
             <HeroSection/>
+
             <FeaturedSection/>
+            
             <TrailersSection/>
 
         </>
